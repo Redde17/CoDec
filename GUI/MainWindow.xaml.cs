@@ -21,7 +21,6 @@ namespace GUI{
     public partial class MainWindow : Window{
         public MainWindow(){
             InitializeComponent();
-            //MessageBox.Show("Yay e' arrivata la versione 1.0.1\nE' stato risolto un bug che non permetteva la corretta visualizazzione dell parola cifrata\nFine ;)", "YEEEEEEEEEEAH");
         }
 
 
@@ -44,5 +43,3 @@ namespace GUI{
         }
     }
 }
-
-//using (var TestObject = new wrapper())
