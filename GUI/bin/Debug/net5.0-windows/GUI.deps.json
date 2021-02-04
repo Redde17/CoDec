@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GUI/1.0.0": {
+        "dependencies": {
+          "wrapper": "1.0.0"
+        },
+        "runtime": {
+          "GUI.dll": {}
+        }
+      },
+      "wrapper/1.0.0": {
+        "dependencies": {
+          "Coding": "1.0.0"
+        },
+        "runtime": {
+          "wrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "wrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

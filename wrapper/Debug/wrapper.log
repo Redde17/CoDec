@@ -1,0 +1,4 @@
+﻿  wrapper.cpp
+  wrapper.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Coding.lib(codifica.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  wrapper.vcxproj -> C:\Users\Red\source\repos\Coding\Debug\wrapper.dll

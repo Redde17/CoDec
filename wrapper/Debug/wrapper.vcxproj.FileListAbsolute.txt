@@ -1,0 +1,5 @@
+C:\Users\Red\source\repos\Coding\Debug\Ijwhost.dll
+C:\Users\Red\source\repos\Coding\Debug\wrapper.deps.json
+C:\Users\Red\source\repos\Coding\Debug\wrapper.runtimeconfig.json
+C:\Users\Red\source\repos\Coding\wrapper\Debug\wrapper.genruntimeconfig.cache
+C:\Users\Red\source\repos\Coding\wrapper\Debug\wrapper.vcxprojAssemblyReference.cache
