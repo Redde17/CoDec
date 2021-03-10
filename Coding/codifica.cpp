@@ -1,3 +1,4 @@
+//comment test
 #include "codifica.h"
 
 CoDec::CoDec() {
